@@ -1,0 +1,12 @@
+redis_host: 127.0.0.1
+redis_port: 6379
+#[Log日志使用]
+ding_token: ""
+ding_sec: ""
+#mail:
+#  host:
+ # user_name:
+ # user_nick_name: ""
+ # pass_wd: ""
+#mail_port: 25
+
